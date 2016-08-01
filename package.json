@@ -1,0 +1,31 @@
+{
+  "name": "oreilly-do-it-live",
+  "version": "1.0.0",
+  "description": "fuggit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/benjaminben/oreilly-do-it-live.git"
+  },
+  "author": "neB nimijneB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminben/oreilly-do-it-live/issues"
+  },
+  "homepage": "https://github.com/benjaminben/oreilly-do-it-live#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.0",
+    "method-override": "^2.3.6",
+    "mongodb": "^2.2.5",
+    "morgan": "^1.7.0",
+    "request": "^2.74.0",
+    "underscore": "^1.8.3"
+  }
+}
